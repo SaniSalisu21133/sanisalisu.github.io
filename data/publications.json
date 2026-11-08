@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07",
+  "updated": "2026-11-08",
   "publications": [
     {
       "title": "Fixed point iterative techniques for solving nonlinear convex optimization problems",
@@ -1425,7 +1425,7 @@
       "series": null,
       "source": "cv",
       "id": "salisu2024enrichedmultivaluednonex",
-      "openalex_citations": 4,
+      "openalex_citations": 5,
       "citations": 7,
       "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=stLnqjwAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=stLnqjwAAAAJ:4TOpqqG69KYC"
     },
@@ -1712,7 +1712,7 @@
       "series": null,
       "source": "cv",
       "id": "salisu2023onfixedpointsofenrichedc",
-      "openalex_citations": 12,
+      "openalex_citations": 13,
       "citations": 27,
       "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=stLnqjwAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=stLnqjwAAAAJ:ufrVoPGSRksC"
     },
@@ -1745,7 +1745,7 @@
       "series": null,
       "source": "cv",
       "id": "salisu2023convergencetheoremsforfi",
-      "openalex_citations": 13
+      "openalex_citations": 14
     },
     {
       "title": "Approximating fixed points of demicontractive mappings in metric spaces by geodesic averaged perturbation techniques",
@@ -1776,7 +1776,7 @@
       "series": null,
       "source": "cv",
       "id": "salisu2023approximatingfixedpoints",
-      "openalex_citations": 5,
+      "openalex_citations": 6,
       "citations": 11,
       "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=stLnqjwAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=stLnqjwAAAAJ:Zph67rFs4hoC"
     },
@@ -1910,7 +1910,7 @@
       "series": null,
       "source": "cv",
       "id": "inuwa2023fixedpointtheoremsforenr",
-      "openalex_citations": 8,
+      "openalex_citations": 9,
       "citations": 11,
       "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=stLnqjwAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=stLnqjwAAAAJ:kNdYIx-mwKoC"
     },
