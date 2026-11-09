@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08",
+  "updated": "2026-11-09",
   "publications": [
     {
       "title": "Fixed point iterative techniques for solving nonlinear convex optimization problems",
@@ -1649,7 +1649,7 @@
       "source": "cv",
       "id": "inuwa2024equilibriumproblemsandpr",
       "openalex_citations": 1,
-      "citations": 5,
+      "citations": 6,
       "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=stLnqjwAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=stLnqjwAAAAJ:YOwf2qJgpHMC"
     },
     {
@@ -1777,7 +1777,7 @@
       "source": "cv",
       "id": "salisu2023approximatingfixedpoints",
       "openalex_citations": 6,
-      "citations": 11,
+      "citations": 12,
       "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=stLnqjwAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=stLnqjwAAAAJ:Zph67rFs4hoC"
     },
     {
