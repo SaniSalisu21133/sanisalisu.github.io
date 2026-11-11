@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10",
+  "updated": "2026-11-11",
   "publications": [
     {
       "title": "Fixed point iterative techniques for solving nonlinear convex optimization problems",
@@ -1003,7 +1003,7 @@
       "series": null,
       "source": "cv",
       "id": "nasiru2025spectralconjugategradien",
-      "openalex_citations": 4,
+      "openalex_citations": 5,
       "citations": 6,
       "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=stLnqjwAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=stLnqjwAAAAJ:r0BpntZqJG4C"
     },
@@ -1553,7 +1553,7 @@
       "series": null,
       "source": "cv",
       "id": "salihu2024twoefficientnonlinearcon",
-      "openalex_citations": 16,
+      "openalex_citations": 17,
       "citations": 18,
       "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=stLnqjwAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=stLnqjwAAAAJ:L8Ckcad2t8MC"
     },
@@ -1712,7 +1712,7 @@
       "series": null,
       "source": "cv",
       "id": "salisu2023onfixedpointsofenrichedc",
-      "openalex_citations": 13,
+      "openalex_citations": 14,
       "citations": 27,
       "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=stLnqjwAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=stLnqjwAAAAJ:ufrVoPGSRksC"
     },
@@ -2041,7 +2041,7 @@
       "series": null,
       "source": "cv",
       "id": "salisu2022onminimizationandfixedpo",
-      "openalex_citations": 10,
+      "openalex_citations": 11,
       "citations": 15,
       "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=stLnqjwAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=stLnqjwAAAAJ:qjMakFHDy7sC"
     },
