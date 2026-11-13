@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12",
+  "updated": "2026-11-13",
   "publications": [
     {
       "title": "Fixed point iterative techniques for solving nonlinear convex optimization problems",
@@ -1521,7 +1521,7 @@
       "series": null,
       "source": "cv",
       "id": "yahaya2024spectrallikeconjugategra",
-      "openalex_citations": 10,
+      "openalex_citations": 11,
       "citations": 12,
       "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=stLnqjwAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=stLnqjwAAAAJ:mVmsd5A6BfQC"
     },
